@@ -1,17 +1,19 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
-        "altText": "Logo dark",
+        "altText": "Big Redes Inversiones",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/logo-dark.svg"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "Precios",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -28,7 +30,7 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
+            "label": "Proyectos",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
@@ -37,7 +39,7 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
+            "label": "Servicios",
             "altText": "Dropdown",
             "links": [
                 {
