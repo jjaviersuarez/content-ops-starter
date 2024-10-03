@@ -31,7 +31,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/Gemini_Generated_Image_g0vkp3g0vkp3g0vk.jpeg
+      url: /images/hero2.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
