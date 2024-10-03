@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Big Redes Inversiones
+      text: Big Redes Inversiones Colombia
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
