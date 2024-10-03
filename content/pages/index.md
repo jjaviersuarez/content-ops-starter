@@ -12,7 +12,7 @@ sections:
       Promovemos soluciones para la vida digna, la vivienda, el desarrollo
       socioeconómico, financiero y turístico.
     actions:
-      - label: Get started
+      - label: Contáctanos
         altText: ''
         url: /
         showIcon: false
